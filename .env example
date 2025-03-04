@@ -1,0 +1,3 @@
+# Change words in capital letters
+
+DATABASE_URL="postgresql://USERNAME:PASSWORD@localhost:PORT/DB_NAME?schema=public"
